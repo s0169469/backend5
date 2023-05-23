@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-    <title>Task 3. Lukyanenko Alla 21/1</title>
+    <title>Task 3</title>
     <link rel="stylesheet" href="style2.css">
 </head>
 <body>
@@ -51,7 +51,7 @@
         ?>
       </select><br />
 
-      4. Your civility:<br/>
+      4. Your gender:<br/>
     <label><input type="radio" checked="checked"
       name="gender" value="m" 
       <?php print($errors['gender'] ? 'class="error"' : '');?>
